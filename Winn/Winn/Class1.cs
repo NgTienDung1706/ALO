@@ -8,6 +8,6 @@ namespace Winn
 {
     internal class Class1
     {
-        Console.WriteLine("Hello from Branch A");
+        Console.WriteLine("Viet da sua");
     }
 }
