@@ -8,8 +8,8 @@ namespace Winn
 {
     internal class Class1
     {
-        int x;
-        int y;
+        int x=5;
+        int y=7;
 
     }
 }
