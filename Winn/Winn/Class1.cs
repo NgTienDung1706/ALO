@@ -8,9 +8,6 @@ namespace Winn
 {
     internal class Class1
     {
-        float x=7;
-        float y=8;
-
-        float z =(float)x + y;
+        Console.WriteLine("Hello from Branch A");
     }
 }
