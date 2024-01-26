@@ -15,6 +15,7 @@ namespace Winn
         static void Main()
         {
             Console.WriteLine("Hello from Branch A");
+            Console.WriteLine("Hello from Branch B");
         }
     }
 }
